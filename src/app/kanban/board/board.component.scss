@@ -1,0 +1,48 @@
+.outer-card {
+    margin: 10px;
+    min-width: 300px;
+    max-width: 300px;
+    padding: 10px;
+    // background: #212121;
+  }
+  
+  .inner-card {
+      margin: 5px 0;
+      cursor: pointer;
+  }
+
+  .cdk-drag-animating {
+    transition: transform 300ms ease;
+  }
+  
+  .tasks.cdk-drop-list-dragging .cdk-drag {
+    transition: transform 300ms ease;
+  }
+
+.cdk-drag-placeholder {
+  opacity: 0.5;
+}
+
+.purple1 {
+  background-color: #e0cdf1;
+}
+
+.purple2 {
+  background-color: #d1a9f7;
+}
+
+.purple3 {
+  background-color: #c388fa;
+}
+
+.purple4 {
+  background-color: #ae63f3;
+}
+
+.purple5 {
+  background-color: #9944e9;
+}
+
+.purple6 {
+  background-color: #8f1afc;
+}
