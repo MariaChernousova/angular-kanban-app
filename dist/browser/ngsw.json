@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1621197877933,
+  "index": "”https://mariachernousova.github.io/angular-kanban-app/”/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "”https://mariachernousova.github.io/angular-kanban-app/”/5-es2015.2f0b97fd28db0f69bd96.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/5-es5.2f0b97fd28db0f69bd96.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/6-es2015.e4f17a886962bdd272de.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/6-es5.e4f17a886962bdd272de.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/index.html",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/main-es2015.6f789a12796987e79ffa.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/main-es5.6f789a12796987e79ffa.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/manifest.webmanifest",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/polyfills-es2015.ca64e4516afbb1b890d5.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/polyfills-es5.7568e63eec85e27a3a7b.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/runtime-es2015.c7c977c41424397a4862.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/runtime-es5.c7c977c41424397a4862.js",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/styles.cc73ddfc96c4d26b863c.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/122-2.png",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/127-2.png",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/27.png",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/40.png",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/91.png",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/favicon.ico",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/google-logo.svg",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/info.png",
+        "”https://mariachernousova.github.io/angular-kanban-app/”/assets/undraw_profile_pic_ic5t.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "”https://mariachernousova.github.io/angular-kanban-app/”/5-es2015.2f0b97fd28db0f69bd96.js": "d7be08b94fa4b0c74ae02fc2cc606cede8d08a1a",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/5-es5.2f0b97fd28db0f69bd96.js": "2c426f53ac4e8b2b2a34c2c5fe46ad8cf60714b8",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/6-es2015.e4f17a886962bdd272de.js": "274e333bcd6d706f4730ffa3979334a6df57bc80",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/6-es5.e4f17a886962bdd272de.js": "8f1a6f8d07e412edb5f88530f60ab2e325348af3",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/122-2.png": "a35239e7f04e3a3377fdb17896841a1d5cfadbbc",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/127-2.png": "a190ce4afe9eb0635c27f03b961303321356cf06",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/27.png": "ea53b664fd6c9d39fd43563c6047ff58dead1824",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/40.png": "fc079663acfd761f398b25862682805dd705ba4a",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/91.png": "6f61354dcd5a3a02e2e6564b3d945ed55d5dd5b2",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/favicon.ico": "ab24057777f7bb7be9124d0cc9a3c4790b920c6e",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/google-logo.svg": "4524589b0dceefb6ae6389f36634441df69152d5",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/info.png": "2da1fdfb53729c09a8a5536d96045bb8ea26bb65",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/assets/undraw_profile_pic_ic5t.svg": "0a53bc991d7e425890e2faa344453a8ba5025a57",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/index.html": "9eba1be7d57918593dd43c50197a7ce53249a2ab",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/main-es2015.6f789a12796987e79ffa.js": "62df7b64635e84051d9deaf16ed5a6ebcb0fd40c",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/main-es5.6f789a12796987e79ffa.js": "bf86420de9c49ab51ec59fb69c4ed66c210ce797",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/manifest.webmanifest": "97e9738648b32df73bb87baebf1435db85e0dedb",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/polyfills-es2015.ca64e4516afbb1b890d5.js": "8779ed8d9bf0580e1b50b352a9b8fd520be24433",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/polyfills-es5.7568e63eec85e27a3a7b.js": "d5158605c08abe16a3992ccf4604bf8d2a934964",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/runtime-es2015.c7c977c41424397a4862.js": "a8523939d039debe820780b143923faf879580e2",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/runtime-es5.c7c977c41424397a4862.js": "afd00cfbbcd3f67996cfea1b896c4787ca84e707",
+    "”https://mariachernousova.github.io/angular-kanban-app/”/styles.cc73ddfc96c4d26b863c.css": "a25bcfd4372a10f60d2c7669e9efbed47cab02c3"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
